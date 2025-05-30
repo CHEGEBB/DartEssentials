@@ -1,3 +1,16 @@
 📘 Dart Variables – Notes + Code Snippets
 🧠 What is a Variable?
 A variable is used to store data in memory. You give it a name, assign a value, and then use it later.
+
+📝 Notes:
+
+var can store any value.
+
+Once assigned, the type is fixed. You can’t change age to a String later.
+
+We can also explicitly declare variables using keywords like String,int bool
+Good for clarity and readability.
+
+Use explicit types when the type is important.
+
+dynamic allows changing type later (not recommended unless necessary).
