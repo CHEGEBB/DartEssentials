@@ -1,0 +1,3 @@
+📘 Dart Variables – Notes + Code Snippets
+🧠 What is a Variable?
+A variable is used to store data in memory. You give it a name, assign a value, and then use it later.
