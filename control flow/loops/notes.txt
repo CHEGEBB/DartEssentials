@@ -1,0 +1,24 @@
+📝 Notes:
+
+Runs a block repeatedly.
+
+Syntax: for (initialization; condition; increment)
+
+📝 Notes:
+
+Runs while the condition is true.
+
+Condition checked before running the loop body.
+
+📝 Notes:
+
+Loop runs once before checking condition.
+
+Useful when you want the body to run at least once.
+
+
+for in 
+
+Used for iterating over lists or other collections.
+
+Simple and readable.
