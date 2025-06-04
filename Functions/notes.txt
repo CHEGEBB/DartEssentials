@@ -15,4 +15,10 @@ returnType can be any Dart type, or void if no value is returned.
 
 parameters are inputs to the function, optional or required.
 
+📝 Notes:
+
+Function greet does not take any input and does not return anything (void).
+
+We call it inside main().
+
 
