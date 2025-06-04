@@ -1,0 +1,27 @@
+📘 Dart Data Types – Notes + Examples
+🧠 What are Data Types?
+In Dart, data types define the kind of data a variable can hold — like numbers, text, or true/false values.
+
+
+📝 Notes:
+
+int: Whole numbers (e.g., 1, 45, -3)
+
+double: Decimal numbers (e.g., 3.14, -0.5)
+
+Strings are like the magic scrolls 📜 of your code—they store all your text-based data and messages. With Dart, you can craft and manipulate text using strings!
+
+Booleans store the true or false logic of your code—a key ingredient in decision-making!
+
+Are you asleep?
+Is the door open?
+Does a cat fly?
+Are you older than your father?
+
+These all are yes/no questions. Its a good idea to store them in boolean.
+
+Dart List is similar to an array, which is the ordered collection of the objects. If you want to store multiple values without creating multiple variables, you can use a list.
+
+A map is a dynamic collection that represents a set of values ​as key-value pairs. Keys and values ​in the
+
+map can be of any type.

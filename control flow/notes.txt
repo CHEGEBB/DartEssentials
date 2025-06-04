@@ -1,0 +1,15 @@
+
+📘 Dart Control Flow & Loops – Notes + Examples
+
+If
+#
+Dart supports if statements with optional else clauses. The condition in parentheses after if must be an expression that evaluates to a boolean:
+
+📝 Notes:
+
+if checks a condition.
+
+else runs if the condition is false.
+
+Conditions must be boolean expressions (true or false).
+

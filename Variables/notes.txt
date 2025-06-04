@@ -14,3 +14,9 @@ Good for clarity and readability.
 Use explicit types when the type is important.
 
 dynamic allows changing type later (not recommended unless necessary).
+
+final: Assigned once during runtime.
+
+const: Assigned at compile time (must be known beforehand).
+
+Both are used to create constants.
