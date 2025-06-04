@@ -1,0 +1,18 @@
+📘 Dart Functions – Notes + Examples
+1. What is a Function?
+A function is a reusable block of code that performs a specific task.
+
+Functions help keep code organized and avoid repetition.
+
+2. Basic Function Syntax
+
+returnType functionName(parameters) {
+  // code block
+  return value;  // if returnType is not void
+}
+
+returnType can be any Dart type, or void if no value is returned.
+
+parameters are inputs to the function, optional or required.
+
+
