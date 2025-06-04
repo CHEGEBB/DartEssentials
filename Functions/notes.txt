@@ -21,4 +21,15 @@ Function greet does not take any input and does not return anything (void).
 
 We call it inside main().
 
+Function with optional parameters
+
+Square brackets [] make parameters optional positional.
+
+Use nullable type String? to handle missing input.
+
+Named parameters wrapped in {}.
+
+Can have default values.
+
+Callers specify parameter names.
 
