@@ -2,6 +2,14 @@
 // 📘 Learning Anonymous Functions in Dart
 
 void main() {
+
+    var items = ['Laptop', 'Tablet', 'Smartphone', 'Smartwatch'];
+
+  // Using an anonymous function with forEach to print each item
+  items.forEach((item) {
+    print(item);
+  });
+  
   // ✅ 1. Basic Anonymous Function
   // A function without a name, used inline
   var greet = () {
@@ -39,3 +47,4 @@ void main() {
 void execute(Function fn) {
   fn('CHEGEBB');
 }
+
