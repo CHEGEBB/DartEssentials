@@ -1,0 +1,15 @@
+Features of OOP 💡
+
+Class 📚: A blueprint for creating objects (like a recipe for cookies 🍪).
+
+Object 🎯: The actual instance created from the class (like a cookie 🍪 made from the recipe).
+
+Encapsulation 🛡️: Wrapping code into neat little packages.
+
+Inheritance 👨‍👧: Reusing properties from another class. (Dogs inherit from Animals 🐶🐾)
+
+Polymorphism 🎭: One method, many forms!
+
+Abstraction 💼: Only showing the essential features.
+
+An object is an instance of a class. It represents a real-world entity with attributes (properties) and behaviors (methods). Objects allow you to create multiple instances of a class, each with its own unique data
