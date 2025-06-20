@@ -28,6 +28,26 @@ class car{
   }
 }
 
+
+//// A class with default values for properties
+class MyDetails {
+  String name = 'Unknown';
+  int age = 0;
+
+}
+
+class Dog{
+  String name;
+  int age;
+
+//parameterized constructor
+  Dog(this.name, this.age);
+
+  void bark() {
+    print('$name says Woof!');
+  }
+}
+
 void main(){
   // Creating an instance of Person
   Person person1 = Person('Alice', 30);
@@ -36,4 +56,11 @@ void main(){
   // Creating an instance of car
   car car1 = car('Toyota', 'Corolla', 2020);
   car1.displayInfo(); // Output: Brand: Toyota, Model: Corolla, Year: 2020
+
+  MyDetails myDetails = MyDetails();
+  print("Name: ${myDetails.name}, Age: ${myDetails.age}"); // Output: Name: Unknown, Age: 0
+
+  Dog dog1 = Dog('Buddy', 5);
+  dog1.bark(); // Output: Buddy says Woof!
+  print('Dog Name: ${dog1.name}, Age: ${dog1.age}'); // Output: Dog Name: Buddy, Age: 5
 }

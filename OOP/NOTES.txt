@@ -13,3 +13,41 @@ Polymorphism 🎭: One method, many forms!
 Abstraction 💼: Only showing the essential features.
 
 An object is an instance of a class. It represents a real-world entity with attributes (properties) and behaviors (methods). Objects allow you to create multiple instances of a class, each with its own unique data
+
+Components of OOP 🛠️
+
+Constructor 🏗️:
+
+A constructor is like a welcome party for your object! 🎉
+
+It’s a special function that runs automatically when an object is created. 💫
+
+Its main job is to set up the object’s properties and make sure everything is in place. 🔧
+
+In Dart, the constructor has the same name as the class (no guessing games here!).
+
+There are two main types of constructors in Dart, and they’re ready to bring your objects to life! 👾
+
+
+
+Default constructor: A default constructor is automatically created if no other constructor is specified.
+
+No parameter required.
+
+Initializes instance variables to their default values ​​(null for objects, 0 for integers, etc.).
+
+🔒 Data Encapsulation: Your Code's Secret Vault! 🔒
+
+Data encapsulation keeps your class's implementation details safe from users, using an object's functions to control access. This enhances security and promotes cleaner code! 🌟
+
+🚀 How to Achieve Encapsulation in Dart 🚀
+
+Hide Your Secrets: Declare class properties as private by prefixing with an underscore (_). This locks away your valuable data! 📦🔒
+
+Public Access: Create getter and setter methods to control access to private properties. These methods act as the keys to your vault! 🗝️💼
+
+🏷️ Getter and Setter Methods: Your Access Control Team! 🏷️
+
+Getter Methods: Friendly guides that safely reveal private property values—no risk of meddling! 🎤✨
+
+Setter Methods: Vigilant bouncers that allow authorized changes to private properties—keeping your vault secure! 💃🎉
