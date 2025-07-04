@@ -1,0 +1,4 @@
+Factory Methods
+
+A Dart factory method (or factory constructor) is a special type of constructor marked with the factory keyword. Unlike regular constructors that always create a new instance of their class, a factory method can return an existing instance, an instance of a subtype, or perform complex logic before creating and returning a new instance.
+ It's commonly used for validation (as in your Circle.create example), caching, implementing singletons, or creating objects based on dynamic conditions.
