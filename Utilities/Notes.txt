@@ -7,3 +7,10 @@ These utilities allow developers to perform various operations like date arithme
 
 Asynchronous programming in Dart allows you to execute non-blocking operations, which is crucial for handling tasks such as network requests, file I/O, and other operations that may take time to complete.
  Dart provides several features and mechanisms for asynchronous programming, including Futures and the async/await syntax
+
+Enums
+
+
+
+Enums, short for enumerations, are a feature in many programming languages, including Dart. 
+In Dart, enums are a special type used to represent a fixed number of constant values, typically related to a specific domain or set of options. Here's an overview of how enums work in Dart:
