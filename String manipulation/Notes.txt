@@ -1,0 +1,13 @@
+String Manipulation in Dart
+
+Importance:
+
+String manipulation is essential for processing and formatting text data in programming, such as generating messages, formatting user input, or performing text-based calculations.
+
+Common Operations:
+
+Concatenation: Concatenation combines two or more strings into one. Dart uses the + operator for this.
+
+Interpolation: String interpolation allows embedding variables directly within a string. Dart uses $ for simple variables and ${} for expressions.
+
+Substring: The substring() method extracts a portion of a string by specifying start and end indices.
